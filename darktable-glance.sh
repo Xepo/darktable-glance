@@ -4,7 +4,7 @@ hostdir="$HOME/tmp/serv-dt"
 
 mkdir -p "$hostdir"
 
-cat > "$hostdir/dt.html" <<EOF
+cat > "$hostdir/index.html" <<EOF
 <html>
 
 <head>

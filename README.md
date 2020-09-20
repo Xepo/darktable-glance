@@ -41,5 +41,5 @@ exported photo matches the preview window.
 2. In Darktable, click on preview second window in bottom-left of window.  
 3. Make sure tablet is connected to same network as computer
 4. Check IP of computer (likely beginning with 192.168, you can see it with `ifconfig`)
-5. On tablet, open web browser, and navigate to http://<Computer IP>:8989/
+5. On tablet, open web browser, and navigate to http://Computer IP:8989/
 
